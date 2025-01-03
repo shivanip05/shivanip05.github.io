@@ -1,6 +1,4 @@
-# shivanip05.github.io
-
-### Education
+## Education
 Computer Science @ Tufts University
   Linear Algebra
   Discrete Mathematics
@@ -9,16 +7,16 @@ Computer Science @ Tufts University
   Privacy in the Digital Age (upcoming!)
   Engineering Psychology (upcoming!)
 
-### Technical Skills
+## Technical Skills
 C++
 C
 x86-64 Assembly
 Python
 
-### Work Experience
+## Work Experience
 Looking for my first internship!
 
-### Projects I'm especially proud of
-## Unfortunately I cannot post these as that would be a violation of course policy :(
+## Projects I'm especially proud of
+### Unfortunately I cannot post these as that would be a violation of course policy :(
 Lossy image compressor
 Image rotator
