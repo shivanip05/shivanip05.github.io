@@ -17,7 +17,7 @@ Computer Science @ Tufts University
 * Looking for my first internship!
   
 ## Projects I'm especially proud of
-Currently working on: teaching myself Python, this website!  
+### Currently working on: teaching myself Python, this website!  
 * Lossy image compressor (Unfortunately I cannot post this as that would be a violation of course policy but I would be happy to discuss!)
 
 
