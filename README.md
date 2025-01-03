@@ -19,3 +19,8 @@ Computer Science @ Tufts University
 ## Projects I'm especially proud of
 Currently working on: teaching myself Python, this website!  
 * Lossy image compressor (Unfortunately I cannot post this as that would be a violation of course policy but I would be happy to discuss!)
+
+
+## Connect
+Message me on LinkedIn!
+www.linkedin.com/in/shivani-parekh-005462310
