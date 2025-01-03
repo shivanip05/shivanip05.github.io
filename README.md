@@ -19,4 +19,4 @@ Computer Science @ Tufts University
 ## Projects I'm especially proud of
 (Unfortunately I cannot post these as that would be a violation of course policy but I would be happy to discuss!)
 * Lossy image compressor
-  
+Currently working on: Teaching myself Python
