@@ -22,5 +22,5 @@ Currently working on: teaching myself Python, this website!
 
 
 ## Connect
-Message me on LinkedIn!
+Message me on LinkedIn!  
 www.linkedin.com/in/shivani-parekh-005462310
